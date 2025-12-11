@@ -1,6 +1,6 @@
 # google-sheets-data-cleaning-project
-[Google Sheets](https://docs.google.com/spreadsheets/d/13-p-0HnnEDs7CYGKm3BKQmTOb8facGblqn_-gEMfGDI/edit?gid=1210785768#gid=1210785768)
-Google
+[Google Sheets Dosyama ulaşmak için tıklayın](https://docs.google.com/spreadsheets/d/13-p-0HnnEDs7CYGKm3BKQmTOb8facGblqn_-gEMfGDI/edit?gid=1210785768#gid=1210785768)
+
 1. Raw Dataset (Ham Veri)
 Kullanıcı ID
 Aktivite tarihleri (farklı formatlarda, hatalı ve düzensiz)
